@@ -1,0 +1,22 @@
+{
+    "id": "com.adobe.as3corelib-source",
+    "name": "AS3 CoreLib",
+    "url": "https://github.com/mikechambers/as3corelib",
+    "docUrl": "https://github.com/mikechambers/as3corelib",
+    "description": "Classes and utilities from Adobe",
+    "sourceUrl": "https://github.com/j3k0/as3corelib/releases/download/v1.93.0/com.adobe.as3corelib-source.airpackage",
+    "type": "src",
+    "version": "1.93.0",
+    "license": {
+        "type": "BSD",
+        "public": true
+    },
+    "dependencies": [],
+    "parameters": [],
+    "tags": [
+        "fovea",
+        "adobe",
+        "utility",
+        "core"
+    ]
+}

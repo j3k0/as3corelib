@@ -1,10 +1,4 @@
-An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs.
-
-Code is released under a BSD License:
-http://www.opensource.org/licenses/bsd-license.php
-
-Copyright (c) 2008, Adobe Systems Incorporated
-All rights reserved.
+Copyright (c) 2008, Adobe Systems Incorporated All rights reserved.
 
 Redistribution and use in source and binary forms, with or without 
 modification, are permitted provided that the following conditions are
